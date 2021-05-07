@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/WeatherFoerecast-Group-29/static/css/main.05076c90.chunk.css",
+    "main.js": "/WeatherFoerecast-Group-29/static/js/main.16da6acb.chunk.js",
+    "main.js.map": "/WeatherFoerecast-Group-29/static/js/main.16da6acb.chunk.js.map",
+    "runtime-main.js": "/WeatherFoerecast-Group-29/static/js/runtime-main.c07ce1f1.js",
+    "runtime-main.js.map": "/WeatherFoerecast-Group-29/static/js/runtime-main.c07ce1f1.js.map",
+    "static/js/2.91be0bc7.chunk.js": "/WeatherFoerecast-Group-29/static/js/2.91be0bc7.chunk.js",
+    "static/js/2.91be0bc7.chunk.js.map": "/WeatherFoerecast-Group-29/static/js/2.91be0bc7.chunk.js.map",
+    "static/js/3.e7e68bad.chunk.js": "/WeatherFoerecast-Group-29/static/js/3.e7e68bad.chunk.js",
+    "static/js/3.e7e68bad.chunk.js.map": "/WeatherFoerecast-Group-29/static/js/3.e7e68bad.chunk.js.map",
+    "index.html": "/WeatherFoerecast-Group-29/index.html",
+    "static/css/main.05076c90.chunk.css.map": "/WeatherFoerecast-Group-29/static/css/main.05076c90.chunk.css.map",
+    "static/js/2.91be0bc7.chunk.js.LICENSE.txt": "/WeatherFoerecast-Group-29/static/js/2.91be0bc7.chunk.js.LICENSE.txt",
+    "static/media/navbar.css": "/WeatherFoerecast-Group-29/static/media/BabySchoolItalic.2e86b4dc.ttf",
+    "static/media/App.css": "/WeatherFoerecast-Group-29/static/media/CP.3bddf932.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c07ce1f1.js",
+    "static/js/2.91be0bc7.chunk.js",
+    "static/css/main.05076c90.chunk.css",
+    "static/js/main.16da6acb.chunk.js"
+  ]
+}
